@@ -20,5 +20,4 @@
 ![Google Cloud](https://img.shields.io/badge/GCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/Latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
