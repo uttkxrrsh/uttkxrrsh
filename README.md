@@ -1,11 +1,5 @@
 <h1 align="center">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=uttkxrrsh&theme=radical&show_icons=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uttkxrrsh&theme=radical&layout=compact&langs_count=10)
-
 ## Tech Stack
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
@@ -21,3 +15,11 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/Latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
+
+
+## My Github Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=uttkxrrsh&theme=radical&show_icons=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uttkxrrsh&theme=radical&layout=compact&langs_count=10)
+
